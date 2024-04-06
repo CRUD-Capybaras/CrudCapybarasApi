@@ -1,0 +1,10 @@
+com/example/crudcapybarasapi/vehicle/VehicleType.class
+com/example/crudcapybarasapi/city/CityRepository.class
+com/example/crudcapybarasapi/busStop/BusStop.class
+com/example/crudcapybarasapi/city/CityController.class
+com/example/crudcapybarasapi/city/City.class
+com/example/crudcapybarasapi/CrudCapybarasApiApplication.class
+com/example/crudcapybarasapi/vehicle/Vehicle.class
+com/example/crudcapybarasapi/BaseEntity.class
+com/example/crudcapybarasapi/ride/Ride.class
+com/example/crudcapybarasapi/city/CityService.class
